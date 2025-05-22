@@ -4,7 +4,7 @@ Due to confidentiality agreements, I’m unable to share live links or source co
 
 However, I’ve included screenshots (with all sensitive information removed) to showcase the interfaces, features, and design of the applications I built. These systems were fully developed by me — both frontend and backend — demonstrating my experience with full-stack development.
 
-# Screenshots
+## 🖼️ Screenshots
 ![Access Code](https://github.com/user-attachments/assets/94b3a5a2-2251-4b16-9e6b-9e479913f07f)
 ![hide password](https://github.com/user-attachments/assets/6e8da43e-f27c-40eb-9a22-968777e610d9)
 ![dashboard 1](https://github.com/user-attachments/assets/6cffd403-deb3-482f-91a7-c67462d3be00)
