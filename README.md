@@ -15,9 +15,6 @@ This web-based **Supply Inventory Management System** was developed for a govern
 To comply with government regulations and protect sensitive data:
 - No source code is shared publicly.
 - No live demo is available.
-- Screenshots shown (if any) are redacted and contain only dummy or anonymized data.
-
-If you're a potential client or employer, I can walk you through the system privately and explain my role and the system architecture.
 
 ---
 
